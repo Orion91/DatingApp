@@ -23,6 +23,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DatingApp-SPA", "DatingApp-
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "65328"
+		SlnRelativePath = "DatingApp-SPA\"
 	EndProjectSection
 EndProject
 Global
